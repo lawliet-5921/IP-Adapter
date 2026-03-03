@@ -1,0 +1,6 @@
+models/
+sdxl_models/
+assets/
+*.bin
+*.pth
+*.ckpt

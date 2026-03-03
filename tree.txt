@@ -1,0 +1,73 @@
+.
+├── assets
+│   ├── demo
+│   │   ├── crop_and_resize_cmp.jpg
+│   │   ├── image-to-image.jpg
+│   │   ├── image_variations.jpg
+│   │   ├── inpainting.jpg
+│   │   ├── ip_adpter_plus_image_variations.jpg
+│   │   ├── ip_adpter_plus_multi.jpg
+│   │   ├── multi_prompts.jpg
+│   │   ├── sd15_face.jpg
+│   │   ├── sdxl_cmp.jpg
+│   │   ├── structural_cond.jpg
+│   │   └── t2i-adapter_demo.jpg
+│   ├── figs
+│   │   └── fig1.png
+│   ├── images
+│   │   ├── ai_face2.png
+│   │   ├── ai_face.png
+│   │   ├── girl.png
+│   │   ├── river.png
+│   │   ├── statue.png
+│   │   ├── stone.png
+│   │   ├── vermeer.jpg
+│   │   └── woman.png
+│   ├── inpainting
+│   │   ├── image.png
+│   │   └── mask.png
+│   └── structure_controls
+│       ├── depth2.png
+│       ├── depth.png
+│       └── openpose.png
+├── filelist.txt
+├── ip_adapter
+│   ├── attention_processor_faceid.py
+│   ├── attention_processor.py
+│   ├── custom_pipelines.py
+│   ├── __init__.py
+│   ├── ip_adapter_faceid.py
+│   ├── ip_adapter_faceid_separate.py
+│   ├── ip_adapter.py
+│   ├── resampler.py
+│   ├── sd3_attention_processor.py
+│   ├── test_resampler.py
+│   └── utils.py
+├── IP-Adapter
+│   ├── fig1.png
+│   ├── .gitattributes
+│   └── README.md
+├── ip_adapter_controlnet_demo_new.ipynb
+├── ip_adapter_demo.ipynb
+├── ip_adapter-full-face_demo.ipynb
+├── ip_adapter_multimodal_prompts_demo.ipynb
+├── ip_adapter-plus_demo.ipynb
+├── ip_adapter-plus-face_demo.ipynb
+├── ip_adapter-plus_sdxl_demo.ipynb
+├── ip_adapter_sdxl_controlnet_demo.ipynb
+├── ip_adapter_sdxl_demo.ipynb
+├── ip_adapter_sdxl_plus-face_demo.ipynb
+├── ip_adapter_t2i-adapter_demo.ipynb
+├── ip_adapter_t2i_demo.ipynb
+├── LICENSE
+├── pyproject.toml
+├── README.md
+├── tree.txt
+├── tutorial_train_faceid.py
+├── tutorial_train_plus.py
+├── tutorial_train.py
+├── tutorial_train_sdxl.py
+├── visualization_attnmap_faceid.ipynb
+└── visualization_attnmap_sdxl_plus-face.ipynb
+
+8 directories, 62 files
